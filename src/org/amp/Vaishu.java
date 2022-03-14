@@ -10,6 +10,7 @@ double c=65l;
 c=a+b;
 System.out.println(a+b);
 System.out.println(a);
+System.out.println("a is print");
 --a;
 System.out.println(a);
 System.out.println(c);
@@ -17,6 +18,7 @@ System.out.println(c);
 	}
 	private void companyId() {
 System.out.println("i am not happy know ");
+System.out.println("this program is done");
 	}
 	public static void main(String[] args) {
 		Vaishu v=new Vaishu();
