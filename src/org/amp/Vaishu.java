@@ -2,7 +2,7 @@ package org.amp;
 
 public class Vaishu{
 	private void companyName() {
-System.out.println("i am vary happy know");
+System.out.println("tcs");
 int a=10;
 a++;
 float b=20;
@@ -17,8 +17,7 @@ System.out.println(c);
 
 	}
 	private void companyId() {
-System.out.println("i am not happy know ");
-System.out.println("this program is done");
+System.out.println("70376 ");	
 	}
 	public static void main(String[] args) {
 		Vaishu v=new Vaishu();
